@@ -1,6 +1,5 @@
 """
 write_random.py
-Name: Khue (Jennifer) Ha
 """
 
 import random
