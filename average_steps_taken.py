@@ -1,6 +1,5 @@
 """
 average_steps_taken.py
-Name: Khue (Jennifer) Ha
 """
 
 
